@@ -13,7 +13,7 @@ Fixed no parasites in the vents
 
 Feb 17 2015 
 Fixed shaman no sounds
-Added admin immune from vote kick
+Added the kick immunity to admin from vote kick
 Added selfkill information for Male marine with player name
 Added teamkill and teamkiller informations.
 Added player/leader name instead of only steamID on console
@@ -47,7 +47,7 @@ Added parasite infestation damage
 Added grub touch damage
 
 Aug 24 2015 
-Moidfied admincheats.smx for sm v1.7.2
+Modified admincheats plugin for sm v1.7.2
 
 Apr 20 2016 
 Fixed marine activating electrified Armor crashes
@@ -71,7 +71,7 @@ Added beta parasite infestation/damage effect
 Sep 1 2016 
 Fixed rockets ammo disappear if reload pressed during firing
 Added '/afk' and 'asw_afk'
-Added players no onfire when jumping through firewall
+Added marine no onfire when jumping through firewall
 Modified missionchooser date format
 
 Dec 27 2016 
@@ -93,7 +93,7 @@ Jan 29 2017
 Fixed parasite not hatching in respawned egg
 Fixed one of the ai bots keeping panel/computer hack afer hacking
 Updated no beta parasite sitting in egg
-Updated 'admincheats' plugin show weapon name if weapon spawn
+Updated admincheats plugin show weapon name if weapon spawn
 Modified money auto removal if it's not picked up in time
 
 Mar 10 2017 
