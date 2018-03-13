@@ -1,0 +1,260 @@
+Ch1ckensCoop mod project was created by Ibemad
+
+The project is continued from May 2014 by Softcopy
+
+
+
+Jan 9 2015
+
+Added aliens colors and sizes control statements from Ibemad 
+
+Added beta drone/buzzer/mortarbug/shieldbug aliens
+
+
+
+Feb 12 2015 
+
+Fixed marine getting serious damage from melee jumping if "asw_marine_fall_damage 1" after Ibemad hints
+
+Fixed beta shieldbug not disappear after killed
+
+Fixed queen not spawn on some custom maps
+
+Fixed no parasites in the vents
+
+
+
+Feb 17 2015 
+
+Fixed shaman no sounds
+
+Added the kick immunity to admin from vote kick
+
+Added selfkill information for Male marine with player name
+
+Added teamkill and teamkiller informations.
+
+Added player/leader name instead of only steamID on console
+
+
+
+Feb 27 2015 
+
+Added rocket no damage marine if hardcoreFF is off
+
+Added ammo satchel pack possible dropping 3 ammo packs instead of 0 when cheat command 'asw_ent_create asw_weapon_ammo_satchel'
+
+
+
+Mar 15 2015
+
+Added Skill levels & hardcoreFF default to normal when server is hibernating
+
+
+
+Aug 24 2015 
+
+Added all guns primary ammo amount per clip
+
+Added vindicator and rifle secondary ammo
+
+Added sentry machine gun range & damage
+
+Added sentry cannon fire rate, range & damage
+
+Added sentry ice range.
+
+Added sentry assemble/disassemble speed
+
+Added tesla trap disassemble speed
+
+Added barrel damage.
+
+Added skill level lock. it respectively run skill_1.cfg on easy lvl, skill_2.cfg on normal lvl, skill_3.cfg on hard lvl...etc. it replaced "asw-exec-skills.smx" plugin function.
+
+Added auto kick player who has less skill level than cfg settings
+
+Fixed beta shieldbug shover crashes.
+
+Fixed beta shieldbug no defending after shot/hurt
+
+Added beta shieldbug death animations.
+
+Added beta parasite, beta buzzer & beta mortarbug with death animations.
+
+Added beta buzzer radiation gas leakage damage
+
+Added shaman death animation
+
+Added boomer grenades mass, range & damage
+
+Added parasite infestation damage
+
+Added grub touch damage
+
+
+
+Aug 24 2015 
+
+Modified admincheats plugin for sm v1.7.2
+
+
+
+Apr 20 2016 
+
+Fixed marine activating electrified Armor crashes
+
+Added electrified burst effect on alien touch explosion
+
+Added pre-init alien moving speed to avoid no server.cfg has set
+
+Added 'asw_version' / 'ver' commands to check server version
+
+Added '/help' to show some limited info
+
+
+
+Jun 10 2016 
+
+Fixed alien network culling
+
+
+
+Jun 23 2016 
+
+Added sound.vpk to provide missing queen sound effects in Jacob/custom maps
+
+
+
+Jun 27 2016 
+
+Added control sentry/ammo attaching to weapon cheat
+
+
+
+Jul 28 2016 
+
+Added beta parasite infestation/damage effect
+
+
+
+Sep 1 2016 
+
+Fixed rockets ammo disappear if reload pressed during firing
+
+Added '/afk' and 'asw_afk'
+
+Added marine no onfire when jumping through firewall
+
+Modified missionchooser date format
+
+
+
+Dec 27 2016 
+
+Added spectators not allowing to take over marine slots
+
+Added '/afk release' chatcommand to release slot to spectator
+
+Added secondary ammo recharge from ammo bag
+
+Added ammo 15% more in ammo bag for secondary ammo recharge
+
+Added chainsaw damage reduction to queen
+
+Added queen radiation gas leakage damage to marine
+
+Added heal gun more usages a marine start out with
+
+Added medkit usages a marine start out with
+
+Added jumpjet/blink crashes prevention
+
+Added ban duration alert to the vote kicked player 
+
+Fixed OnMoveBlock crashes
+
+Fixed bot using GL unable to auto aim alien
+
+Modified sentry damage scale if hardcoreFF is on 
+
+
+
+Jan 29 2017 
+
+Fixed parasite not hatching in respawned egg
+
+Fixed one of the ai bots keeping panel/computer hack afer hacking
+
+Updated no beta parasite sitting in egg
+
+Updated admincheats plugin show weapon name if weapon spawn
+
+Modified money auto removal if it's not picked up in time
+
+
+
+Mar 10 2017 
+
+Added queen knockdown marine
+
+Modded queen not frozen forever from ice attack 
+
+Modded queen ice damage reduction
+
+Modded idle Shaman possible escape from marine
+
+Fixed mortarbugs some time stuck each other in burrow
+
+
+
+Apr 11 2017 
+
+Added setleader for consoles instead of only in chatmode
+
+Modded full health marine from map pre-spawned medkit/last medkit ammo
+
+Fixed crashes on asw_ent_teleport with some named entities
+
+
+
+Apr 27 2017 
+
+Added duplicate IP player not allowing on vote kick
+
+Added marine melee/freezer allowing to damage the rocks
+
+
+
+May 20 2017 
+
+Added a new skin for beta parasite
+
+
+
+Jun 22 2017 
+
+Added beta drone new skins and beta jumper with wings
+
+Added beta drone flinch, burrow out and run aim animations
+
+Added auto release bot slots to new join players if bots in slots
+
+
+
+Sep 25 2017 
+
+Added sentry tesla to stun aliens
+
+Added sentry yaw angle 180 degrees
+
+fixed shieldbug/mortarbug/harvester asleep after tesla stunned
+
+
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+ 
