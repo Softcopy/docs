@@ -125,3 +125,9 @@ Added sentry tesla to stun aliens
 Added sentry yaw angle 180 degrees
 fixed shieldbug/mortarbug/harvester asleep after tesla stunned
 
+Mar 19 2018
+Added auto release bot slot for new joint player if server full
+Added flashlight to marine 
+Added /ready chat command
+Fixed sentry flamer/cannon crashes on some new custom maps
+
