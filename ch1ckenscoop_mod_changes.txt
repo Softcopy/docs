@@ -131,3 +131,11 @@ Added flashlight to marine
 Added /ready chat command
 Fixed sentry flamer/cannon crashes on some new custom maps
 
+Oct 20 2018
+Fixed asw_hordemode_update_mode sometime not working properly
+Added shaman healing amount
+
+Dec 27 2018
+Added medical healgun healing range
+Added healgrenade bonus in medical satchel
+
