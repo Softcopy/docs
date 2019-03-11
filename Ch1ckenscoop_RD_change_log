@@ -1,0 +1,74 @@
+Ch1ckensCoop ReactivedDrop Mod changes log:
+------------------------------------------
+Dec 2017
+The Reactive Drop project has been ported over
+v1.0
+Added all functions and features from ch1ckenscoop alien swarm
+
+Jan 2018
+v1.2
+Added special weapons unlimited ammo
+v1.2.1
+Reverted minigun sound to original
+Fixed GetItemForSlot crashes
+Updated npcowner crashes fix on asrd
+
+Mar 2018
+v1.3
+Added medical satchel grenade auto increase healing radius when more than 4 marines 
+v1.3.1
+Updated player levels checking failure on asrd for kick function 
+v1.3.2
+Fixed flamer sentry crashes on asrd custom map
+v1.3.3
+Added marine flashlight for some darkness/dimmed maps
+Reverted reload sound to original
+v1.3.4
+Added heavy rifle & medical rifle primary/secondary ammo bonus
+Added gas grenades bonus
+Added medic grenades bonus in medical satchel
+
+May 2018
+v1.3.5
+Added 50calmg buff grenade as secondary weapon
+Added more flag option for kick/setleader in admin profile
+Reverted collision rules back to ch1ckenscoop collision rules to fix Tilarus Comm.Center marines falling bug
+
+Jun 2018
+v1.3.6
+Updated friendly fire damage based on skill levels difficulty only
+Added hordemode for antlionguard
+v1.3.7
+Fixed antlionguard crash
+Added mininglaser, devastator and 50calmg damages reduction
+Fixed marine teleporting when take using bot
+Fixed medic marines shot time incorrection on asrd when switching weapon/droping healgrenade 
+Added shaman healing amount
+
+July 2018
+v1.3.8
+Added hl2 npc aliens including npc_antlion, classic/fast/poison zombies and headcrabs
+Added hl2 ncp aliens animations, death and sound effects
+Fixed npc antlion using non-exist act_diesimple 
+Added new sounds.vpk for missing hl2 npc aliens and queen sound effects 
+
+Dec 2018
+v1.3.9
+Updated second colors typo bug on colorscale function
+Added rocket colors and scale
+Added marine colors
+Added hl2 npc aliens hordemode spawn with dynamic health
+Added T75 damage, activation speed scale and detonate time
+Added medical heal guns healing range 
+Updated hl2 posionzombie black headcrab attack damage adjustable
+Removed all the obsoleted hl2 npc aliens Randomize entities 
+Removed the obsoleted entity asw_colonist_zombie_change
+
+Feb 2019
+v1.4
+Added bot carrying medrifle as same as healgun that can heal marines
+Added zombie swat speed
+Added beta drone agitated run animation to make the movement more natural
+Updated srcds.exe using 2012 version which can reduce srcds crashes
+
+
