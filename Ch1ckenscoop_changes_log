@@ -139,3 +139,22 @@ Dec 27 2018
 Added medical healgun healing range
 Added healgrenade bonus in medical satchel
 
+Mar 24 2019
+Added npc zombie and npc zombie hordemode on city17 
+Added beta drone agitated run amination
+Added hornet/rocket color scale
+Updated SetColorScale function
+Updated addon sounds.vpk
+Updated alien scalemod entities default value
+Updated visual project file, cfgs and wikis
+Updated svn->revert cfg files
+Updated srcds.exe using 2012 version to reduce srcds crashes
+
+Jun 19 2019
+Added 'Research7 Heart Of The Swarm' queen falling/dead bug fix 
+Added 'Heart Of The Swarm' alien prune in queen radius to prevent stuck
+Added colonist health re-gen
+Added ai medical marine weapons switching fix
+Modded most weapons friendly to colonist
+Modded advertisements plugin to display yellow/white colors messages
+Updated customsettings_example.cfg
