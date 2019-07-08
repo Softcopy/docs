@@ -96,3 +96,9 @@ Added 'JerichoMines' alien prune in queen radius to prevent stuck
 Added colonist health re-gen
 Modded most weapons friendly to colonist
 Updated customsettings_example.cfg
+
+July 2019
+v1.4.4
+Added colonist no one hit kill
+Added Alien Swarm 'Could not AllocSound() for InsertSound()' bug fix
+Updated addon sounds.vpk
