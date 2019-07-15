@@ -158,3 +158,9 @@ Added ai medical marine weapons switching fix
 Modded most weapons friendly to colonist
 Modded advertisements plugin to display yellow/white colors messages
 Updated customsettings_example.cfg
+
+July 15 2019
+Added colonist 1 hit kill protection
+Added mining laser gun damage scale reduction against marine/colonist
+Updated marine/colonist using individual health re-gen speed
+Updated customsettings_example.cfg
