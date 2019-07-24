@@ -100,5 +100,11 @@ Updated customsettings_example.cfg
 July 2019
 v1.4.4
 Added colonist no one hit kill
+Added chainsaw/mininglaser/devastator/50calmg damage reductions against marine/colonist
 Added Alien Swarm 'Could not AllocSound() for InsertSound()' bug fix
 Updated addon sounds.vpk
+
+July 2019
+v1.4.5
+Updated chainsaw/mininglaser/devastator/50calmg damage reductions
+Updated customsettings_example.cfg
