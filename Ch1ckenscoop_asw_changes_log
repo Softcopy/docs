@@ -164,3 +164,7 @@ Added colonist 1 hit kill protection
 Added mining laser gun damage scale reduction against marine/colonist
 Updated marine/colonist using individual health re-gen speed
 Updated customsettings_example.cfg
+
+July 24 2019
+Updated chainsaw/mininglaser damage reductions against marine/colonist
+Updated customsettings_example.cfg
