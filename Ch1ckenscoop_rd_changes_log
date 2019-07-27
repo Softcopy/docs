@@ -108,3 +108,8 @@ July 2019
 v1.4.5
 Updated chainsaw/mininglaser/devastator/50calmg damage reductions
 Updated customsettings_example.cfg
+
+July 2019
+v1.4.6
+Fixed a picked up weapon sometime occupying two weapon slots
+Updated chainsaw/mininglaser/devastator/50calmg damage reductions
