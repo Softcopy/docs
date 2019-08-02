@@ -113,3 +113,9 @@ July 2019
 v1.4.6
 Fixed a picked up weapon sometime occupying two weapon slots
 Updated chainsaw/mininglaser/devastator/50calmg damage reductions
+
+Aug 2019
+v1.4.7
+Added all npc zombies speedboost and adjusted yaw speed 
+Reverted picked up weapon occupying two weapon slots fix
+Updated customsettings_example.cfg 
