@@ -119,3 +119,10 @@ v1.4.7
 Added all npc zombies speedboost and adjusted yaw speed 
 Reverted picked up weapon occupying two weapon slots fix
 Updated customsettings_example.cfg 
+
+Sep 2019
+v1.4.8
+Added colonist healthbar
+Added header file for asw_health_bar_shared
+Fixed non-usable weapon showing in inventory after weapon picked up
+Updated customsettings_example.cfg
