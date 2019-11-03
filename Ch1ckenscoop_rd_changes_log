@@ -126,3 +126,9 @@ Added colonist healthbar
 Added header file for asw_health_bar_shared
 Fixed non-usable weapon showing in inventory after weapon picked up
 Updated customsettings_example.cfg
+
+Nov 2019
+v1.4.9
+Updated server.dll for asrd added class table 
+Updated cfg files
+
