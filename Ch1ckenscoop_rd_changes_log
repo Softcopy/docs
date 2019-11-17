@@ -129,6 +129,10 @@ Updated customsettings_example.cfg
 
 Nov 2019
 v1.4.9
-Updated server.dll for asrd added class table 
+Updated server.dll for asrd added colonist class table 
 Updated cfg files
+v1.5.0
+Removed MarineCanPickup m_bUnique statements for proper weapon pickup on asrd
+Removed GetWeaponDamageReduction debug check
+
 
