@@ -135,4 +135,12 @@ v1.5.0
 Removed MarineCanPickup m_bUnique statements for proper weapon pickup on asrd
 Removed GetWeaponDamageReduction debug check
 
-
+Dec 2019
+v1.5.1
+Added cvar to controls the max NumberOfEdicts() when alien spawns 
+Updated shader memory allocator files for stability test
+Removed tesla from sentry flamer and sentry icer
+Removed entity asw_sentry_tesla
+Added entities to enable tesla on sentry gun and sentry cannon
+Updated skill level lock checking
+Updated customsettings_example.cfg
