@@ -171,3 +171,17 @@ Updated customsettings_example.cfg
 
 July 27 2019
 Reverted chainsaw/mininglaser damage reductions 
+
+Dec 8 2019
+Added npc zombies speedboost and adjusted yaw speed 
+Added colonist healthbar
+Added header file for asw_asw_health_bar_shared
+Updated Steam libraries to establish Steam servers connection
+Updated chainsaw/mininglaser damage reductions
+Updated skill level lock checking
+Removed tesla from sentry flamer and sentry icer
+Removed entity asw_sentry_tesla
+Added entities to enable sentry gun tesla and cannon tesla
+Added wikis for sentry gun tesla and cannon tesla
+Updated customsettings_example.cfg
+
