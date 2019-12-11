@@ -144,3 +144,8 @@ Removed entity asw_sentry_tesla
 Added entities to enable tesla on sentry gun and sentry cannon
 Updated skill level lock checking
 Updated customsettings_example.cfg
+v1.5.2
+Fixed client conflict when access both chainsaw/mininglaser vars
+Updated asw_level_lock.wiki
+Removed asw_sentry_tesla.wiki 
+Added wikis for tesla on sentry cannon and sentry gun
