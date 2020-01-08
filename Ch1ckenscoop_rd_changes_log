@@ -149,3 +149,9 @@ Fixed client conflict when access both chainsaw/mininglaser vars
 Updated asw_level_lock.wiki
 Removed asw_sentry_tesla.wiki 
 Added wikis for tesla on sentry cannon and sentry gun
+
+Jan 2020
+v1.5.3
+Fixed pipline_shieldbug sometime missing in Deima
+Fixed cargo elevator wall climb beta drones no animation
+Updated customsettings_example.cfg
