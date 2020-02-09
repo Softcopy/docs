@@ -185,3 +185,11 @@ Added entities to enable sentry gun tesla and cannon tesla
 Added wikis for sentry gun tesla and cannon tesla
 Updated customsettings_example.cfg
 
+Feb 10 2020
+Fixed pipline_shieldbug sometime missing in Deima
+Fixed cargo elevator wall climb beta drones no animations
+Fixed client conflict when access both chainsaw/mininglaser vars
+Updated sentry assembly time re-arrangement
+Updated asw_level_lock.wiki
+Updated wiki for sentry/tesla trap
+Updated customsettings_example.cfg
