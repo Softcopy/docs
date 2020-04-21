@@ -157,9 +157,15 @@ Fixed cargo elevator wall climb beta drones no animation
 Updated customsettings_example.cfg
 
 Feb 2020
-v 1.5.4
+v1.5.4
 Added fastzombie torso removal on death
 Reverted the max NumberOfEdicts() cvar
 Updated sentry assembly time re-arrangement
 Updated wiki for sentry/tesla trap
 Updated customsettings_example.cfg
+
+Apr 2020
+v1.5.5
+Update missionchooser.dll
+Update asrd official client.dll
+
