@@ -193,3 +193,10 @@ Updated sentry assembly time re-arrangement
 Updated asw_level_lock.wiki
 Updated wiki for sentry/tesla trap
 Updated customsettings_example.cfg
+
+Jun 17 2020
+Fixed pipline shieldbug sometime missing in as_city17_02
+Added hand grenade damage/radius
+Reverted autokick userid command
+Updated customsettings_example.cfg
+
