@@ -170,9 +170,18 @@ Update missionchooser.dll
 Update asrd official client.dll
 
 June 2020
+v1.5.6
 Fixed pipline shieldbug sometime missing in as_city17_02
 Added the damage of hand grenade
 Added asw_flashlight toggle idea from asrd
 Updated sourcemod to 1.10 for supporting geoip2
 Reverted GetUserID to GetASWNetworkID for kicking function
+
+Aug 2020
+v1.5.7
+Fixed Forbidden_Outpost map crashing server
+Updated special weapons default to enable
+Updated mapspawn.nut auto running
+Updated customsetttings_example.cfg
+
 
