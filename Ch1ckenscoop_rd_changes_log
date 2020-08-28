@@ -183,5 +183,10 @@ Fixed Forbidden_Outpost map crashing server
 Updated special weapons default to enable
 Updated mapspawn.nut auto running
 Updated customsetttings_example.cfg
+v1.5.8
+Fixed asw_respawn_marine concommand crash
+Updated asw_respawn_marine to respawn marine/all marines
+Added the respawn marine sound/effect
+Removed srcds.exe from 'SVN Revert'
 
 
