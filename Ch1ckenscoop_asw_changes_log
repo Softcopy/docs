@@ -200,8 +200,16 @@ Added hand grenade damage/radius
 Reverted autokick userid command
 Updated customsettings_example.cfg
 
+Aug 19 2020
+Updated SVN-Revert for the official update on 19 Aug 2020
+
 Aug 27 2020
 Fixed asw_respawn_marine concommand crash
 Updated asw_respawn_marine to respawn marine/all marines 
 Added the respawn marine sound/effect
+
+Aug 28 2020
+Updated project file for optimization
+
+
 
