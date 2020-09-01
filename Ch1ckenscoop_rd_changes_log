@@ -189,4 +189,12 @@ Updated asw_respawn_marine to respawn marine/all marines
 Added the respawn marine sound/effect
 Removed srcds.exe from 'SVN Revert'
 
+Sep 2020
+v1.5.9
+Added colonist carrying gun to defend
+Added skill/geo information showing to console when player joined
+Added header file for npc_antlionguard
+Updated customsetttings_example.cfg
+
+
 
