@@ -195,6 +195,8 @@ Added colonist carrying gun to defend
 Added skill/geo information showing to console when player joined
 Added header file for npc_antlionguard
 Updated customsetttings_example.cfg
+
+Oct 2020
 v1.6
 Added keys 'GO'/'STOP' to order colonist
 Updated customsetttings_example.cfg
