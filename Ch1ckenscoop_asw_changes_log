@@ -211,5 +211,10 @@ Added the respawn marine sound/effect
 Aug 28 2020
 Updated project file for optimization
 
+Sep 11 2020
+Added keys 'GO'/'STOP' to order colonist
+Added skill level info to console when player join the server
+Added player geo info to console if cannounce plugin has installed.
+Updated customsetttings_example.cfg
 
 
