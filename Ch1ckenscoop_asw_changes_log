@@ -217,4 +217,6 @@ Added skill level info to console when player join the server
 Added player geo info to console if cannounce plugin has installed.
 Updated customsetttings_example.cfg
 
-
+Oct 26 2020
+Fixed warning C4316: 'CIKContext' : object allocated on the heap may not be aligned 16
+Updated const char *alienLabel to *szAlien
