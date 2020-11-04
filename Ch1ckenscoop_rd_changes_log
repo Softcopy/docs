@@ -201,3 +201,11 @@ v1.6
 Added keys 'GO'/'STOP' to order colonist
 Updated customsetttings_example.cfg
 
+Nov 2020
+v1.6.1
+Updated Project SVN to VS2019
+Updated server.dll/missionchooser.dll from VS2019 compiler 
+Fixed CIKContext C4316 warnings
+Added JerichoMines map simple_physics_prop Out-of-range lag fix
+Added Communication Centre map crashes fix
+Added MarineName() to show marine profile name instead of shortname
