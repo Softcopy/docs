@@ -209,3 +209,11 @@ Fixed CIKContext C4316 warnings
 Added JerichoMines map simple_physics_prop Out-of-range lag fix
 Added Communication Centre map crashes fix
 Added MarineName() to show marine profile name instead of shortname
+
+Nov 2020
+v.1.6.2
+Added the spawned/pre-spawned weapon's ammo using cvar control
+Added 50calmg nearby the pre-spawned weapons in maps for more choices
+Added chat command '/asw_respawn_marine'
+Updated customsettings_example.cfg
+Updated advertisements.txt
