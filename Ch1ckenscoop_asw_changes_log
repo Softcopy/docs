@@ -220,3 +220,10 @@ Updated customsetttings_example.cfg
 Oct 26 2020
 Fixed warning C4316: 'CIKContext' : object allocated on the heap may not be aligned 16
 Updated const char *alienLabel to *szAlien
+
+Nov 30 2020
+Added the spawned/pre-spawned weapon's ammo using cvar control
+Added chat command '/asw_respawn_marine'
+Added MarineName() to show marine profile name instead of shortname
+Updated customsettings_example.cfg
+Updated advertisements.txt
