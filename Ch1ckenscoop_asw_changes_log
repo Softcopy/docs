@@ -227,3 +227,6 @@ Added chat command '/asw_respawn_marine'
 Added MarineName() to show marine profile name instead of shortname
 Updated customsettings_example.cfg
 Updated advertisements.txt
+
+Dec 14 2020
+Reverted the spawned/pre-spawned weapon's ammo using cvar control
