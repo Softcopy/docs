@@ -217,3 +217,7 @@ Added 50calmg nearby the pre-spawned weapons in maps for more choices
 Added chat command '/asw_respawn_marine'
 Updated customsettings_example.cfg
 Updated advertisements.txt
+
+Dec 2020
+v.1.6.3
+Reverted the spawned/pre-spawned weapon's ammo using cvar control
