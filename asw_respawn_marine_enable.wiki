@@ -1,0 +1,13 @@
+======Enables dead marine/marines respawn for lobby leader======
+= Description =
+
+Dead Marine/Marines can be respawned in game for fun.
+
+[[asw_respawn_marine.wiki|asw_respawn_marine]] is exclusively used by admin, also lobby leader is allowed to use the command if asw_respawn_marine_enable is enabled.
+
+ 
+{|
+|| [[asw_version.wiki|Server Version]] Added || Default || [[CvarFlags.wiki | CvarFlags]] || [ParamType Parameter Type] 
+|-
+|| 1.5.8 || `0` || [[FCVAR_CHEAT.wiki|FCVAR_CHEAT]] || [Bool] 
+|}
