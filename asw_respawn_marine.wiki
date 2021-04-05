@@ -5,7 +5,7 @@ Dead marine/marines can be respawned in game for fun.
 
 asw_respawn_marine is exclusively used for admin, also lobby leader is allowed to use the command if [[asw_respawn_marine_enable.wiki|asw_respawn_marine_enable]] is enabled
 
-'asw_respawn_marine' can run on console/developer's console and chat command '/asw_respawn_marine' as well.
+asw_respawn_marine can run on console/developer's console and chat command '/asw_respawn_marine' as well.
 
 
 == Usage ==
