@@ -225,3 +225,9 @@ Reverted the spawned/pre-spawned weapon's ammo using cvar control
 Dec 2020
 v1.6.4
 Fixed ASRD asw_skill_grenades_cluster_dmg_base wrong default to "0"
+
+Mar 2022
+v1.6.5
+Updated server.dll for client.dll class tables has changed on 10-Feb-2022
+Updated customsetttings_example.cfg
+Updated InstallServer.wiki

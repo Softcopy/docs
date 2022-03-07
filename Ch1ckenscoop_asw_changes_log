@@ -230,3 +230,15 @@ Updated advertisements.txt
 
 Dec 14 2020
 Reverted the spawned/pre-spawned weapon's ammo using cvar control
+
+Mar 17 2021
+Updated InstallServer.wiki
+
+Apr 13 2021
+Updated project svn compatible with vs2019
+Updated asw_old_mortarbug default to 2
+Updated customsetttings_example.cfg
+Added wikis
+
+Mar 5 2022
+Updated InstallServer.wiki
